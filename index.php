@@ -36,7 +36,7 @@ cada uno de ellos con la tecla<br>
 
 		include('funcionesBD.php');
 
-		@ $conexion = new mysqli ("localhost","root","3VA9mTdHaAJMuaoY2GSa","railway");  
+		@ $conexion = new mysqli ("containers-us-west-16.railway.app","root","3VA9mTdHaAJMuaoY2GSa","railway");  
 		$conexion->set_charset("utf8");
 
 		$arrayOpciones = obtenerArrayOpciones('tecnos','id','nombre');
