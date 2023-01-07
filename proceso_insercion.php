@@ -1,5 +1,5 @@
 <html><body>
-<a href="formulario_examen.php">Volver al formulario</a></body></html>
+<a href="index.php">Volver al formulario</a></body></html>
 
 <?php
 
