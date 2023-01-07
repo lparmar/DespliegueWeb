@@ -5,7 +5,7 @@
 
 		include('funcionesBD.php');
 
-		@ $conexion = new mysqli ("containers-us-west-16.railway.app","root","3VA9mTdHaAJMuaoY2GSa","railway");  
+		@ $conexion = new mysqli ("containers-us-west-16.railway.app","root","3VA9mTdHaAJMuaoY2GSa","railway","6723");  
 		$conexion->set_charset("utf8");
 
 		extract($_POST);
