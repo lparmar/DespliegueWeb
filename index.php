@@ -4,7 +4,7 @@
 </head> 
 <body> 
 <center><h4>Formulario de altas</h4></center> 
-
+<p>Prueba para saber si actualiza 20 de febrero 2023</p>
 <form name="altas" method="POST" action="proceso_insercion.php"> 
 <table bgcolor="#E9FFFF" align=center border=2> 
 
